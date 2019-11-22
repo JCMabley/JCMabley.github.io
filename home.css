@@ -1,3 +1,7 @@
 body {
     background: linear-gradient(90deg, #ffffff 50%, #6eb5ff 50%)
 }
+
+#logo_circle{
+    height: 50%;
+}
