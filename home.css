@@ -99,6 +99,16 @@ p{
     #medis_icons{
         font-size: 2.25rem;
     }
+
+    #lefthalf{
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+
+    #righthalf{
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
 }
 
 
@@ -115,6 +125,15 @@ p{
     #medis_icons{
         font-size: 1.5rem;
     }
+
+    #lefthalf{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #righthalf{
+        padding-top: 50px;
+        padding-bottom: 50px;
 }
 
 
