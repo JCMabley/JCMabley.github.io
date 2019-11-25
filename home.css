@@ -10,7 +10,7 @@ body{
 }
 
 h1{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Sawarabi Mincho', sans-serif;
     color: #d9dcff;
     font-size: 3rem;
 }
@@ -46,6 +46,9 @@ p{
     font-size: 3rem;
 }
 
+#media_icons:hover{
+   color:#ffffff;
+}
 
 @media (max-width: 992px) {
     html{
@@ -134,4 +137,5 @@ p{
     #righthalf{
         padding-top: 50px;
         padding-bottom: 50px;
-}
+    }
+}    
