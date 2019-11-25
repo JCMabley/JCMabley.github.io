@@ -47,7 +47,7 @@ p{
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1199.98px) {
     html{
         background: linear-gradient(to left, #ffffff 50%, #ffffff 50%);
         height:100%
